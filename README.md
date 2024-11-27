@@ -1,7 +1,7 @@
 # HX73D's GitHub Profile!
 
 ## About Me
-Hey, I'm HX73D, exploring the world of low-level programming, reverse engineering, and game cheats. I'm all about pushing boundaries and learning as I go. Even though I'm just starting out, I've got grand ambitions. Want to see where my curiosity takes me? Follow along!
+Hey, I'm HX73D, exploring the world of low-level programming, reverse engineering, and game cheats. 
 
 ## Interests
 - Low-level programming
